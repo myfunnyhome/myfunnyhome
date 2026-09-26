@@ -64,8 +64,14 @@ From frontend interfaces to backend APIs and databases.
 
 <br/>
 
+## 💼 Portfolio
+
+<a href="https://app.notion.com/p/Shopify-E-commerce-Portfolio-3e78e81be18b80c28102c45bfe664959?source=copy_link">
+  <img src="https://img.shields.io/badge/Shopify_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
+<br/>
+
 ## 🧑‍💻 Contact Me
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+![Website](https://img.shields.io/badge/Website-Coming_Soon-555555?style=for-the-badge)
