@@ -64,10 +64,18 @@ From frontend interfaces to backend APIs and databases.
 
 <br/>
 
+## 📄 Resume
+
+<a href="https://app.notion.com/p/Lucy-Park-Full-Stack-Engineer-Resume-3e78e81be18b8080aac7d5625e87f052?source=copy_link">
+  <img src="https://img.shields.io/badge/View_Resume-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
+<br/>
+
 ## 💼 Portfolio
 
 <a href="https://app.notion.com/p/Shopify-E-commerce-Portfolio-3e78e81be18b80c28102c45bfe664959?source=copy_link">
-  <img src="https://img.shields.io/badge/Shopify_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Shopify_%26_E--commerce_Portfolio-7AB55C?style=for-the-badge&logo=shopify&logoColor=white">
 </a>
 
 <br/>
